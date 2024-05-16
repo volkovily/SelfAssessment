@@ -1,27 +1,27 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity: 🎓 known
+  - Components: 🎓 known
+  - Directories: 🎓 known
   - GRASP
   - SOLID
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code: 🎓 known
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage: 🎓 known
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -30,14 +30,14 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming: 👂 heard
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI): 👂 heard
   - Clean architecture
-  - Domain-driven design (DDD)
+  - Domain-driven design (DDD): 🎓 known
   - Pub/sub
   - Message brocker
-  - Agent
+  - Agent: 👂 heard
   - Service locator
   - Message Queue (MQ)
   - CQRS
@@ -45,21 +45,21 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML: 🖐️ used
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
+  - Budget estimation: 🎓 known
+  - Distributed systems: 👂 heard
+  - High-intensive computing: 👂 heard
   - Load balancing
-  - Gateways
+  - Gateways: 👂 heard
   - On-premises
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS: 👂 heard
   - FaaS clouds
   - Serverless
   - Vendor lock-in
-  - Bus factor
+  - Bus factor: 👂 heard
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
@@ -88,7 +88,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
   - Data warehouse
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance: 🎓 known
   - Engineering Hygiene
