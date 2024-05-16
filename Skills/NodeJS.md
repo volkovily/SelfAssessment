@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js ~
+  - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
@@ -11,18 +11,18 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules +
-  - ECMAScript modules +
+  - CommonJS modules: 🎓 known
+  - ECMAScript modules: 🎓 known
   - Module `node:module`
   - Caching in CJS and ESM
-  - Modules as singletons ~
+  - Modules as singletons: 👂 heard
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` +
-  - Files `package.json`, `package-lock.json` +
-  - Module-based permissions model 
+  - Dependencies: `npm`, `node_modules`: 🎓 known
+  - Files `package.json`, `package-lock.json`: 🎓 known
+  - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection *
-  - DI containers ~
+  - Dependency injection: 🖐️ used
+  - DI containers: 👂 heard
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment

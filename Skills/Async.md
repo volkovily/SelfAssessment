@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop *
-  - `try..catch` *
-  - Non-blocking ~
-  - Async I/O *
-  - Thread pool ~
+  - Event loop: 🖐️ used
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 👂 heard
+  - Async I/O: 🖐️ used
+  - Thread pool: 👂 heard
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,54 +14,54 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks +
+  - Dead locks: 🎓 known
   - Live locks
-  - Concurrent programming *
+  - Concurrent programming: 🖐️ used
   - Parallel programming
-  - Actor Model ~
+  - Actor Model: 👂 heard
   - Thread
-  - Process ~
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks *
-  - Callback-last-error-first +
-  - Thenable ~
-  - Promise *
-  - Async/await *
-  - Future ~
-  - Deferred ~
-  - Sync generator +
-  - Async Generator +
-  - Async Iterator +
-  - Event *
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 🎓 known
+  - Thenable: 👂 heard
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
+  - Future: 👂 heard
+  - Deferred: 👂 heard
+  - Sync generator: 🎓 known
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
-  - Stream *
+  - Stream: 🖐️ used
   - Chain of responsibility
-  - Middleware ~
+  - Middleware: 👂 heard
   - Locks
 - Async adapters and utils
-  - callbackify 
+  - callbackify
   - promisify
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter +
-  - Observable/Observer ~
+  - EventEmitter: 🎓 known
+  - Observable/Observer: 👂 heard
   - Readable
   - Writable
   - Transform
-  - Async Pool ~
-  - Async Queue ~
+  - Async Pool: 👂 heard
+  - Async Queue: 👂 heard
   - Async Collector
-  - Semaphore ~
+  - Semaphore: 👂 heard
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers *
-  - `setImmediate` *
-  - `nextTick` *
+  - Timers: 🖐️ used
+  - `setImmediate`: 🖐️ used
+  - `nextTick`: 🖐️ used
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
@@ -79,7 +79,7 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all ~
+  - Promise.all: 👂 heard
   - Promise.allSettled
   - Promise.race
   - Promise.any

@@ -1,27 +1,27 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model ~
+  - Model: 👂 heard
   - Modeling
   - Subject domain
-  - Algorithm +
-  - Syntax +
-  - Semantics +
-  - Abstraction +
-  - Paradigm +
-  - Programm +
-  - Programming paradigm +
-  - Programming language +
-  - Contract ~
-  - Module +
-  - Library +
-  - Package +
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
+  - Semantics: 🎓 known
+  - Abstraction: 🎓 known
+  - Paradigm: 🎓 known
+  - Programm: 🎓 known
+  - Programming paradigm: 🎓 known
+  - Programming language: 🎓 known
+  - Contract: 👂 heard
+  - Module: 🎓 known
+  - Library: 🎓 known
+  - Package: 🎓 known
   - Component
-  - Framework +
+  - Framework: 🎓 known
   - Platform
-  - Source code +
+  - Source code: 🎓 known
   - Object code
-  - Machine code +
+  - Machine code: 🎓 known
   - Microcode
   - Software engineering
   - Decomposition
@@ -32,41 +32,41 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value *
-  - Identifier *
-  - Variable *
-  - Constant *
-  - Scalar *
-  - Literal *
-  - Expression *
-  - Heap *
-  - Function *
-  - Procedure ~
-  - Method *
-  - Class *
-  - Prototype *
-  - Event *
-  - Type *
-  - Flag *
-  - Lexical scope +
-  - Code block *
-  - Conditions *
-  - Loops *
-  - Assignment *
-  - Regular expression *
-  - Interface *
-  - Namespaces *
-  - Call stack ~
-  - Naming conventions +
-  - Coding conventions +
-  - Camel case *
-  - Snake case *
-  - Kebab case *
-  - Trailing commas +
-  - Return early +
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
+  - Heap: 🖐️ used
+  - Function: 🖐️ used
+  - Procedure: 👂 heard
+  - Method: 🖐️ used
+  - Class: 🖐️ used
+  - Prototype: 🖐️ used
+  - Event: 🖐️ used
+  - Type: 🖐️ used
+  - Flag: 🖐️ used
+  - Lexical scope: 🎓 known
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
+  - Regular expression: 🖐️ used
+  - Interface: 🖐️ used
+  - Namespaces: 🖐️ used
+  - Call stack: 👂 heard
+  - Naming conventions: 🎓 known
+  - Coding conventions: 🎓 known
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🖐️ used
+  - Trailing commas: 🎓 known
+  - Return early: 🎓 known
   - Fail-fast
 - Types
-  - Primitive types +
+  - Primitive types: 🎓 known
   - Reference types
   - Type systems
   - Strong typing
@@ -81,64 +81,64 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature: *
-  - Argument: *
-  - Parameter: *
-  - Pure function: *
-  - Lambda expression: *
-  - Side effects: +
-  - Closure: *
-  - Partial application: *
-  - Currying: +
-  - Higher order: *
-  - Recursion: *
-  - Tail call optimisation: ~
-  - Callback: *
-  - Listener: *
-  - Composition: *
-  - Pipe: ~
-  - Memoize: ~
-  - Wrapper: ~
-  - Functor: ~
-  - Monad: ~
-  - Monoid: ~
-  - Generator: +
-  - Coroutine: ~
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 🖐️ used
+  - Lambda expression: 🖐️ used
+  - Side effects: 🎓 known
+  - Closure: 🖐️ used
+  - Partial application: 🖐️ used
+  - Currying: 🎓 known
+  - Higher order: 🖐️ used
+  - Recursion: 🖐️ used
+  - Tail call optimisation: 👂 heard
+  - Callback: 🖐️ used
+  - Listener: 🖐️ used
+  - Composition: 🖐️ used
+  - Pipe: 👂 heard
+  - Memoize: 👂 heard
+  - Wrapper: 👂 heard
+  - Functor: 👂 heard
+  - Monad: 👂 heard
+  - Monoid: 👂 heard
+  - Generator: 🎓 known
+  - Coroutine: 👂 heard
 - Data structures
-  - Array *
+  - Array: 🖐️ used
   - Structure
   - Record
-  - Enum ~
-  - Instance *
-  - Object *
-  - Collection *
-  - Set *
+  - Enum: 👂 heard
+  - Instance: 🖐️ used
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 🖐️ used
   - Hash table
-  - Linked list *
-  - Doubly list *
-  - Unrolled list ~
-  - Circular list ~
-  - Queue +
-  - Stack +
-  - Deque +
-  - Tree *
-  - Graph +
-  - Iterator ~
+  - Linked list: 🖐️ used
+  - Doubly list: 🖐️ used
+  - Unrolled list: 👂 heard
+  - Circular list: 👂 heard
+  - Queue: 🎓 known
+  - Stack: 🎓 known
+  - Deque: 🎓 known
+  - Tree: 🖐️ used
+  - Graph: 🎓 known
+  - Iterator: 👂 heard
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing *
-  - JSON *
-  - JSON5 ~
-  - YAML *
+  - String parsing: 🖐️ used
+  - JSON: 🖐️ used
+  - JSON5: 👂 heard
+  - YAML: 🖐️ used
 - Networking
-  - DNS + 
+  - DNS: 🎓 known
   - CDN
-  - CORS ~
-  - IPv4 +
-  - IPv6 +
+  - CORS: 👂 heard
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
   - NAT
-  - URL+
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
@@ -171,19 +171,19 @@
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers +
-  - Hard code ~
+  - Magic numbers: 🎓 known
+  - Hard code: 👂 heard
   - Soft code
-  - Cryptic code ~
+  - Cryptic code: 👂 heard
   - Improbability factor
-  - Accidental complexity ~
+  - Accidental complexity: 👂 heard
   - Action at a distance
   - Spaghetti
   - Silver bullet
-  - Not invented here ~
+  - Not invented here: 👂 heard
   - Dead code
   - Unreachable code
-  - Duplicate code ~
+  - Duplicate code: 👂 heard
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -193,7 +193,7 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case ~
+  - Use switch/case: 👂 heard
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -210,19 +210,19 @@
 - Operating systems
   - Interrupts
   - Drivers
-  - Kernel ~
+  - Kernel: 👂 heard
   - Ring
   - Virtual memory
   - File system
-  - Linux *
+  - Linux: 🖐️ used
   - Unix
   - BSD
   - MacOS
-  - Windows *
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII ~
+  - ASCII: 👂 heard
   - Escape sequence
   - RFC
   - IETF
@@ -231,7 +231,7 @@
   - Base64
   - ECMA
   - ICANN
-  - ISO ~
+  - ISO: 👂 heard
   - MIME
   - OWASP
   - UTF-8
