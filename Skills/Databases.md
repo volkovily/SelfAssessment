@@ -25,28 +25,28 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys ~
+  - Foreign keys ~
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions ~
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` *
+  - `INSERT` *
+  - `UPDATE` *
+  - `DELETE` *
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
+  - `JOIN` *
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
@@ -56,9 +56,9 @@
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
+  - `CREATE TABLE` *
+  - `ALTER TABLE` *
+  - `DROP TABLE` *
   - `PRIMARY KEY`
   - `FOREIGN KEY`
   - `CHECK`
@@ -72,23 +72,23 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL *
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB ~
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite *
   - DynamoDB
-  - Firebase
+  - Firebase ~
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
+  - Big data ~
+  - Data analysis ~
+  - AI tools *
   - Cloud databases
   - Data Visualization

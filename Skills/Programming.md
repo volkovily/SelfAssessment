@@ -1,27 +1,27 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
+  - Model ~
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
+  - Algorithm +
+  - Syntax +
+  - Semantics +
+  - Abstraction +
+  - Paradigm +
+  - Programm +
+  - Programming paradigm +
+  - Programming language +
+  - Contract ~
+  - Module +
+  - Library +
+  - Package +
   - Component
-  - Framework
+  - Framework +
   - Platform
-  - Source code
+  - Source code +
   - Object code
-  - Machine code
+  - Machine code +
   - Microcode
   - Software engineering
   - Decomposition
@@ -32,41 +32,41 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
+  - Value *
+  - Identifier *
+  - Variable *
+  - Constant *
+  - Scalar *
+  - Literal *
+  - Expression *
+  - Heap *
+  - Function *
+  - Procedure ~
+  - Method *
+  - Class *
+  - Prototype *
+  - Event *
+  - Type *
+  - Flag *
+  - Lexical scope +
+  - Code block *
+  - Conditions *
+  - Loops *
+  - Assignment *
+  - Regular expression *
+  - Interface *
+  - Namespaces *
+  - Call stack ~
+  - Naming conventions +
+  - Coding conventions +
+  - Camel case *
+  - Snake case *
+  - Kebab case *
+  - Trailing commas +
+  - Return early +
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types +
   - Reference types
   - Type systems
   - Strong typing
@@ -81,64 +81,64 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
-  - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
-  - Functor
-  - Monad
-  - Monoid
-  - Generator
-  - Coroutine
+  - Signature: *
+  - Argument: *
+  - Parameter: *
+  - Pure function: *
+  - Lambda expression: *
+  - Side effects: +
+  - Closure: *
+  - Partial application: *
+  - Currying: +
+  - Higher order: *
+  - Recursion: *
+  - Tail call optimisation: ~
+  - Callback: *
+  - Listener: *
+  - Composition: *
+  - Pipe: ~
+  - Memoize: ~
+  - Wrapper: ~
+  - Functor: ~
+  - Monad: ~
+  - Monoid: ~
+  - Generator: +
+  - Coroutine: ~
 - Data structures
-  - Array
+  - Array *
   - Structure
   - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
+  - Enum ~
+  - Instance *
+  - Object *
+  - Collection *
+  - Set *
   - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
+  - Linked list *
+  - Doubly list *
+  - Unrolled list ~
+  - Circular list ~
+  - Queue +
+  - Stack +
+  - Deque +
+  - Tree *
+  - Graph +
+  - Iterator ~
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
-  - JSON
-  - JSON5
-  - YAML
+  - String parsing *
+  - JSON *
+  - JSON5 ~
+  - YAML *
 - Networking
-  - DNS
+  - DNS + 
   - CDN
-  - CORS
-  - IPv4
-  - IPv6
+  - CORS ~
+  - IPv4 +
+  - IPv6 +
   - NAT
-  - URL
+  - URL+
   - URN
   - URI
 - Process and tools
@@ -171,19 +171,19 @@
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers +
+  - Hard code ~
   - Soft code
-  - Cryptic code
+  - Cryptic code ~
   - Improbability factor
-  - Accidental complexity
+  - Accidental complexity ~
   - Action at a distance
   - Spaghetti
   - Silver bullet
-  - Not invented here
+  - Not invented here ~
   - Dead code
   - Unreachable code
-  - Duplicate code
+  - Duplicate code ~
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -193,7 +193,7 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case ~
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -210,19 +210,19 @@
 - Operating systems
   - Interrupts
   - Drivers
-  - Kernel
+  - Kernel ~
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux *
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows *
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII ~
   - Escape sequence
   - RFC
   - IETF
@@ -231,7 +231,7 @@
   - Base64
   - ECMA
   - ICANN
-  - ISO
+  - ISO ~
   - MIME
   - OWASP
   - UTF-8

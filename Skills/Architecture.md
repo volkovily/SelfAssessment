@@ -1,27 +1,27 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity +
+  - Components +
+  - Directories +
   - GRASP
   - SOLID
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code +
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage +
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability +
+  - Quality +
+  - Availability +
+  - Flexibility + 
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -30,14 +30,14 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming ~
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) ~
   - Clean architecture
-  - Domain-driven design (DDD)
+  - Domain-driven design (DDD) +
   - Pub/sub
   - Message brocker
-  - Agent
+  - Agent ~
   - Service locator
   - Message Queue (MQ)
   - CQRS
@@ -45,21 +45,21 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML *
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
+  - Budget estimation +
+  - Distributed systems ~
+  - High-intensive computing ~
   - Load balancing
-  - Gateways
+  - Gateways ~
   - On-premises
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS ~
   - FaaS clouds
   - Serverless
   - Vendor lock-in
-  - Bus factor
+  - Bus factor ~
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
@@ -88,7 +88,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices +
   - Process choreography
   - Service orchestration
   - Data warehouse
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance +
   - Engineering Hygiene

@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
+  - Procedural programming +
+  - Imperative programming +
+  - Structured programming +
+  - Non-structured programming 
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming +
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming +
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -27,26 +27,26 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - Instance
+  - Constructor *
+  - Operator `new` *
+  - Static method *
+  - Method *
+  - Async method +
+  - Getters, Setters *
+  - Public fields *
+  - Private fields *
+  - Field declarations *
+  - Inheritance *
+  - Parent class *
+  - Polymorphism *
+  - Abstract class *
+  - Interface *
+  - Encapsulation +
+  - Hidden class ~
+  - Object form ~
+  - Instance *
   - Introspection
-  - Reflection
+  - Reflection ~
   - The diamond problem
 - GRASP
   - Information expert
@@ -64,21 +64,21 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
+  - Singleton ~
   - Factory Method
   - Abstract Factory
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy ~
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator ~
   - State
   - Bridge
-  - Builder
-  - Prototype
+  - Builder ~
+  - Prototype ~
   - Composite
   - Decorator
   - Flyweight

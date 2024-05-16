@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Event loop *
+  - `try..catch` *
+  - Non-blocking ~
+  - Async I/O *
+  - Thread pool ~
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,54 +14,54 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
+  - Dead locks +
   - Live locks
-  - Concurrent programming
+  - Concurrent programming *
   - Parallel programming
-  - Actor Model
+  - Actor Model ~
   - Thread
-  - Process
+  - Process ~
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Callbacks *
+  - Callback-last-error-first +
+  - Thenable ~
+  - Promise *
+  - Async/await *
+  - Future ~
+  - Deferred ~
+  - Sync generator +
+  - Async Generator +
+  - Async Iterator +
+  - Event *
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream *
   - Chain of responsibility
-  - Middleware
+  - Middleware ~
   - Locks
 - Async adapters and utils
-  - callbackify
+  - callbackify 
   - promisify
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter +
+  - Observable/Observer ~
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool ~
+  - Async Queue ~
   - Async Collector
-  - Semaphore
+  - Semaphore ~
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
+  - Timers *
+  - `setImmediate` *
+  - `nextTick` *
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
@@ -79,7 +79,7 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
+  - Promise.all ~
   - Promise.allSettled
   - Promise.race
   - Promise.any
