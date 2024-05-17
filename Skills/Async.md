@@ -12,14 +12,14 @@
   - kqueue
   - Completion ports
   - Event ports
-  - libuv ~
-  - Race conditions +
+  - libuv: 👂 heard
+  - Race conditions: 🎓 known
   - Dead locks: 🎓 known
   - Live locks
   - Concurrent programming: 🖐️ used
-  - Parallel programming *
+  - Parallel programming: 🖐️ used
   - Actor Model: 👂 heard
-  - Thread *
+  - Thread: 🖐️ used
   - Process: 👂 heard
 - Async contracts
   - Callbacks: 🖐️ used
@@ -35,45 +35,45 @@
   - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal *
+  - Signal: 🖐️ used
   - Stream: 🖐️ used
   - Chain of responsibility
   - Middleware: 👂 heard
-  - Locks *
+  - Locks: 🖐️ used
 - Async adapters and utils
-  - callbackify +
-  - promisify +
-  - asyncify +
-  - Callbacks compose +
-  - Async compose +
+  - callbackify: 🎓 known
+  - promisify: 🎓 known
+  - asyncify: 🎓 known
+  - Callbacks compose: 🎓 known
+  - Async compose: 🎓 known
 - Async abstractions interfaces
   - EventEmitter: 🎓 known
   - Observable/Observer: 👂 heard
-  - Readable *
-  - Writable *
-  - Transform *
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
+  - Transform: 🖐️ used
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
-  - Async Collector ~
-  - Semaphore *
-  - Mutex *
-  - Spin Lock ~
+  - Async Collector: 👂 heard
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
+  - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
   - `setImmediate`: 🖐️ used
   - `nextTick`: 🖐️ used
-  - AbortController +
-  - AbortSignal +
+  - AbortController: 🎓 known
+  - AbortSignal: 🎓 known
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics *
+  - Atomics: 🖐️ used
   - High resolution clock
-  - Callback hell +
-  - Promise hell +
-  - ref() and unref() +
-  - Error handling in async code *
-  - Better stack traces with return await *
-  - JSON streaming serialization +
+  - Callback hell: 🎓 known
+  - Promise hell: 🎓 known
+  - ref() and unref(): 🎓 known
+  - Error handling in async code: 🖐️ used
+  - Better stack traces with return await: 🖐️ used
+  - JSON streaming serialization: 🎓 known
   - AsyncLocalStorage
   - AsyncResource
 - Techniques

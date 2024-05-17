@@ -2,8 +2,8 @@
 
 - Concepts
   - Model: 👂 heard
-  - Modeling +
-  - Subject domain +
+  - Modeling: 🎓 known
+  - Subject domain: 🎓 known
   - Algorithm: 🎓 known
   - Syntax: 🎓 known
   - Semantics: 🎓 known
@@ -12,7 +12,7 @@
   - Programm: 🎓 known
   - Programming paradigm: 🎓 known
   - Programming language: 🎓 known
-  - Contract +
+  - Contract: 🎓 known
   - Module: 🎓 known
   - Library: 🎓 known
   - Package: 🎓 known
@@ -172,48 +172,48 @@
   - LLVM
 - Antipatterns
   - Magic numbers: 🎓 known
-  - Hard code +
-  - Soft code +
+  - Hard code: 🎓 known
+  - Soft code: 🎓 known
   - Cryptic code: 👂 heard
-  - Improbability factor +
+  - Improbability factor: 🎓 known
   - Accidental complexity: 👂 heard
   - Action at a distance
-  - Spaghetti +
-  - Silver bullet +
+  - Spaghetti: 🎓 known
+  - Silver bullet: 🎓 known
   - Not invented here: 👂 heard
-  - Dead code +
-  - Unreachable code +
-  - Duplicate code +
+  - Dead code: 🎓 known
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops +
-  - Long method/function/procedure +
-  - Long inheritance +
-  - Large class/file +
-  - Too many parameters +
+  - Nested loops: 🎓 known
+  - Long method/function/procedure: 🎓 known
+  - Long inheritance: 🎓 known
+  - Large class/file: 🎓 known
+  - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case +
+  - Use switch/case: 🎓 known
   - Temporary field
-  - Handle object as instances and hashes at the same time +
-  - Use fields instead of arguments +
+  - Handle object as instances and hashes at the same time: 🎓 known
+  - Use fields instead of arguments: 🎓 known
   - Data clump
   - Feature envy
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode +
-  - V8 ~
+  - Bytecode: 🎓 known
+  - V8: 👂 heard
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers +
+  - Drivers: 🎓 known
   - Kernel: 👂 heard
   - Ring
-  - Virtual memory +
-  - File system +
+  - Virtual memory: 🎓 known
+  - File system: 🎓 known
   - Linux: 🖐️ used
   - Unix
   - BSD
