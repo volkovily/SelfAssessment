@@ -14,38 +14,38 @@
   - `null`: 🖐️ used
   - `this`: 🖐️ used
   - `instanceof`: 🖐️ used
-  - `...spread`: 🎓 known
-  - `...rest`: 🎓 known
+  - `...spread` *
+  - `...rest` *
   - `typeof`: 🖐️ used
   - Destructuring
   - Generators: 🖐️ used
   - Iterators: 🖐️ used
   - Async generator: 🖐️ used
   - Async iterator: 🖐️ used
-  - Chaining: 👂 heard
+  - Chaining *
   - Optional chaining: 👂 heard
-  - IIFE
-  - Async IIFE
-  - `global`
-  - `globalThis`
+  - IIFE ~
+  - Async IIFE ~
+  - `global` +
+  - `globalThis` ~
   - `window`
   - Getters and setters: 🎓 known
   - `__proto__`: 👂 heard
-  - `prototype`
-  - Equality operators: 🎓 known
-  - Logical operators: 🎓 known
+  - `prototype` ~
+  - Equality operators *
+  - Logical operators *
   - Logical Assignment: 👂 heard
   - Bitwise operators
-  - Ternary operator: 👂 heard
+  - Ternary operator *
   - `void`: 🖐️ used
-  - `yield`
-  - `await`
+  - `yield` ~
+  - `await` *
   - Template literal
   - Strict mode: 🖐️ used
   - Hoisting
   - `delete`
   - `in`
-  - `super`
+  - `super` *
   - `eval`: 🎓 known
   - `static`: 🖐️ used
   - `Number.parseInt`: 🎓 known
@@ -107,14 +107,14 @@
   - `Error`: 🖐️ used
   - `Atomics`
   - `JSON`: 🖐️ used
-  - `WeakRef`
-  - `FinalizationRegistry`
+  - `WeakRef` ~
+  - `FinalizationRegistry` ~
   - `Intl`
   - `Promise`: 🖐️ used
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
-  - V8
+  - V8 ~
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used

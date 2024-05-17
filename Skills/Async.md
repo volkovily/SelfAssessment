@@ -12,14 +12,14 @@
   - kqueue
   - Completion ports
   - Event ports
-  - libuv
-  - Race conditions
+  - libuv ~
+  - Race conditions +
   - Dead locks: 🎓 known
   - Live locks
   - Concurrent programming: 🖐️ used
-  - Parallel programming
+  - Parallel programming *
   - Actor Model: 👂 heard
-  - Thread
+  - Thread *
   - Process: 👂 heard
 - Async contracts
   - Callbacks: 🖐️ used
@@ -35,45 +35,45 @@
   - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal *
   - Stream: 🖐️ used
   - Chain of responsibility
   - Middleware: 👂 heard
-  - Locks
+  - Locks *
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - Callbacks compose
-  - Async compose
+  - callbackify +
+  - promisify +
+  - asyncify +
+  - Callbacks compose +
+  - Async compose +
 - Async abstractions interfaces
   - EventEmitter: 🎓 known
   - Observable/Observer: 👂 heard
-  - Readable
-  - Writable
-  - Transform
+  - Readable *
+  - Writable *
+  - Transform *
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
-  - Async Collector
-  - Semaphore: 👂 heard
-  - Mutex
-  - Spin Lock
+  - Async Collector ~
+  - Semaphore *
+  - Mutex *
+  - Spin Lock ~
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
   - `setImmediate`: 🖐️ used
   - `nextTick`: 🖐️ used
-  - AbortController
-  - AbortSignal
+  - AbortController +
+  - AbortSignal +
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics
+  - Atomics *
   - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
-  - Error handling in async code
-  - Better stack traces with return await
-  - JSON streaming serialization
+  - Callback hell +
+  - Promise hell +
+  - ref() and unref() +
+  - Error handling in async code *
+  - Better stack traces with return await *
+  - JSON streaming serialization +
   - AsyncLocalStorage
   - AsyncResource
 - Techniques

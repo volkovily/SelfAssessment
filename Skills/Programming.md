@@ -2,8 +2,8 @@
 
 - Concepts
   - Model: 👂 heard
-  - Modeling
-  - Subject domain
+  - Modeling +
+  - Subject domain +
   - Algorithm: 🎓 known
   - Syntax: 🎓 known
   - Semantics: 🎓 known
@@ -12,7 +12,7 @@
   - Programm: 🎓 known
   - Programming paradigm: 🎓 known
   - Programming language: 🎓 known
-  - Contract: 👂 heard
+  - Contract +
   - Module: 🎓 known
   - Library: 🎓 known
   - Package: 🎓 known
@@ -172,48 +172,48 @@
   - LLVM
 - Antipatterns
   - Magic numbers: 🎓 known
-  - Hard code: 👂 heard
-  - Soft code
+  - Hard code +
+  - Soft code +
   - Cryptic code: 👂 heard
-  - Improbability factor
+  - Improbability factor +
   - Accidental complexity: 👂 heard
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Spaghetti +
+  - Silver bullet +
   - Not invented here: 👂 heard
-  - Dead code
-  - Unreachable code
-  - Duplicate code: 👂 heard
+  - Dead code +
+  - Unreachable code +
+  - Duplicate code +
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Nested loops +
+  - Long method/function/procedure +
+  - Long inheritance +
+  - Large class/file +
+  - Too many parameters +
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case: 👂 heard
+  - Use switch/case +
   - Temporary field
-  - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
+  - Handle object as instances and hashes at the same time +
+  - Use fields instead of arguments +
   - Data clump
   - Feature envy
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode +
+  - V8 ~
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers +
   - Kernel: 👂 heard
   - Ring
-  - Virtual memory
-  - File system
+  - Virtual memory +
+  - File system +
   - Linux: 🖐️ used
   - Unix
   - BSD

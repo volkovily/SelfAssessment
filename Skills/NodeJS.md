@@ -33,7 +33,7 @@
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
+  - Streams API ~
   - Web Streams API
   - Crypto API
   - Password hashing with crypto.scrypt
@@ -63,65 +63,65 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates +
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API *
   - IncomingMessage
   - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - TCP/SSL +
+  - UDP +
   - TLS
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST *
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS +
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection
+  - SQL injection ~
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Native test runner +
+  - Logging *
+  - Application configuring +
+  - Testing *
+  - CI/CD *
+  - Readable +
+  - Writable +
   - Transform
   - Back pressure
   - Buffer
-  - Console
-  - Inspector
+  - Console *
+  - Inspector *
 - Data access
   - Data access layer
   - Repository
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD +
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` +
   - `error.cause`
   - `error.code`
   - `error.message`
   - `error.stack`
   - `Error.captureStackTrace`
-  - How to avoid mixins
+  - How to avoid mixins ~
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools *
   - Flame graph
-  - Memory leaks
+  - Memory leaks +
   - Resource leaks
   - Data race
 - Integrations and bindings
@@ -139,5 +139,5 @@
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory
+  - Shared memory ~
   - V8 binary serialization

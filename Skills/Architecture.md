@@ -4,8 +4,8 @@
   - Modularity: 🎓 known
   - Components: 🎓 known
   - Directories: 🎓 known
-  - GRASP
-  - SOLID
+  - GRASP +
+  - SOLID +
   - GoF patterns
   - CQS
   - Leaking abstractions

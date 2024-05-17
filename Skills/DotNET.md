@@ -1,9 +1,9 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
+  - Strengths and weaknesses of .NET ~
   - Stateful and stateless services
-  - Asynchronous and synchronous programming
+  - Asynchronous and synchronous programming +
   - Task-based asynchronous pattern
   - Garbage collection in .NET
   - .NET runtime versions and support
@@ -12,11 +12,11 @@
 - Modularity and Dependencies
   - .NET assemblies
   - NuGet package management
-  - Dependency management in .NET
-  - Dependency Injection in .NET
+  - Dependency management in .NET ~
+  - Dependency Injection in .NET ~
   - Inversion of Control (IoC)
   - IoC containers in .NET
-  - Middleware and pipeline configuration
+  - Middleware and pipeline configuration *
   - Modular applications
 - Environment and Tools
   - Command line interface (CLI) tools
@@ -37,13 +37,13 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
+  - HTTP/HTTPS support ~
   - WebSockets for real-time communication
   - TCP/UDP networking
-  - SSL/TLS for secure connections
+  - SSL/TLS for secure connections *
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
-  - Network security (DDoS, XSS, CSRF prevention)
+  - Network security (DDoS, XSS, CSRF prevention) +
   - Serialization and deserialization (JSON, XML)
 - Testing and Debugging
   - Unit testing with frameworks like xUnit, NUnit
@@ -113,14 +113,14 @@
   - Developing custom .NET libraries in `C++`
   - Managing resource disposal and finalization
   - Creating and consuming DLLs (Dynamic Link Libraries)
-  - Working with Windows API
+  - Working with Windows API *
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity *
 - Web development
   - ASP.NET Core
   - Blazor
