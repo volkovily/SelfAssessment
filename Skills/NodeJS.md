@@ -67,10 +67,10 @@
   - Protocol agnostic approach
   - Fetch API: 🖐️ used
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL: 🎓 known
-  - UDP: 🎓 known
-  - TLS
+  - HTTP(S) +
+  - TCP/SSL +
+  - UDP +
+  - TLS ~
   - Websocket
   - SSE
   - HTTP/3 (QUIC)

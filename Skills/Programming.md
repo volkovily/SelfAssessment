@@ -16,20 +16,20 @@
   - Module: 🎓 known
   - Library: 🎓 known
   - Package: 🎓 known
-  - Component
+  - Component +
   - Framework: 🎓 known
-  - Platform
+  - Platform +
   - Source code: 🎓 known
-  - Object code
+  - Object code +
   - Machine code: 🎓 known
-  - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
+  - Microcode +
+  - Software engineering +
+  - Decomposition +
+  - Control flow ~
+  - Data flow ~
+  - Code reuse +
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY) +
   - KISS principle
 - Syntax and concepts
   - Value: 🖐️ used
@@ -142,33 +142,33 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Compiler *
+  - Just-in-time compilation +
+  - Ahead-of-time compilation +
   - Transpiler
-  - Linter
+  - Linter *
   - Polyfill
-  - Interpreter
+  - Interpreter *
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
-  - Register-based VM
-  - Stack-based VM
-  - Containerization
-  - Debugger
+  - Runtime *
+  - Virtual machine *
+  - Register-based VM ~
+  - Stack-based VM ~
+  - Containerization *
+  - Debugger *
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
+  - Garbage collection ~
+  - Refactoring *
+  - Code review *
+  - Exception *
+  - Unittesting *
+  - git *
+  - Github *
+  - Docker *
   - Kubernetes
-  - GCC
+  - GCC +
   - LLVM
 - Antipatterns
   - Magic numbers: 🎓 known
@@ -228,12 +228,12 @@
   - IETF
   - IANA
   - IEEE
-  - Base64
-  - ECMA
+  - Base64 *
+  - ECMA +
   - ICANN
   - ISO: 👂 heard
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 *
   - W3C
   - ODMG

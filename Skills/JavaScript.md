@@ -54,10 +54,10 @@
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Instance class fields +
+  - Static class fields +
+  - Private class fields +
+  - Private class methods +
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
