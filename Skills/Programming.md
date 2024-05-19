@@ -16,20 +16,20 @@
   - Module: 🎓 known
   - Library: 🎓 known
   - Package: 🎓 known
-  - Component +
+  - Component: 🎓 known
   - Framework: 🎓 known
-  - Platform +
+  - Platform: 🎓 known
   - Source code: 🎓 known
-  - Object code +
+  - Object code: 🎓 known
   - Machine code: 🎓 known
-  - Microcode +
-  - Software engineering +
-  - Decomposition +
-  - Control flow ~
-  - Data flow ~
-  - Code reuse +
+  - Microcode: 🎓 known
+  - Software engineering: 🎓 known
+  - Decomposition: 🎓 known
+  - Control flow: 👂 heard
+  - Data flow: 👂 heard
+  - Code reuse: 🎓 known
   - Defensive programming
-  - Don't repeat yourself (DRY) +
+  - Don't repeat yourself (DRY): 🎓 known
   - KISS principle
 - Syntax and concepts
   - Value: 🖐️ used
@@ -142,33 +142,33 @@
   - URN
   - URI
 - Process and tools
-  - Compiler *
-  - Just-in-time compilation +
-  - Ahead-of-time compilation +
+  - Compiler: 🖐️ used
+  - Just-in-time compilation: 🎓 known
+  - Ahead-of-time compilation: 🎓 known
   - Transpiler
-  - Linter *
+  - Linter: 🖐️ used
   - Polyfill
-  - Interpreter *
+  - Interpreter: 🖐️ used
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime *
-  - Virtual machine *
-  - Register-based VM ~
-  - Stack-based VM ~
-  - Containerization *
-  - Debugger *
+  - Runtime: 🖐️ used
+  - Virtual machine: 🖐️ used
+  - Register-based VM: 👂 heard
+  - Stack-based VM: 👂 heard
+  - Containerization: 🖐️ used
+  - Debugger: 🖐️ used
   - Tracing
-  - Garbage collection ~
-  - Refactoring *
-  - Code review *
-  - Exception *
-  - Unittesting *
-  - git *
-  - Github *
-  - Docker *
+  - Garbage collection: 👂 heard
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
+  - Exception: 🖐️ used
+  - Unittesting: 🖐️ used
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 🖐️ used
   - Kubernetes
-  - GCC +
+  - GCC: 🎓 known
   - LLVM
 - Antipatterns
   - Magic numbers: 🎓 known
@@ -228,12 +228,12 @@
   - IETF
   - IANA
   - IEEE
-  - Base64 *
-  - ECMA +
+  - Base64: 🖐️ used
+  - ECMA: 🎓 known
   - ICANN
   - ISO: 👂 heard
   - MIME
   - OWASP
-  - UTF-8 *
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
