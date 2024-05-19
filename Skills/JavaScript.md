@@ -14,38 +14,38 @@
   - `null`: 🖐️ used
   - `this`: 🖐️ used
   - `instanceof`: 🖐️ used
-  - `...spread`: 🎓 known
-  - `...rest`: 🎓 known
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
   - `typeof`: 🖐️ used
   - Destructuring
   - Generators: 🖐️ used
   - Iterators: 🖐️ used
   - Async generator: 🖐️ used
   - Async iterator: 🖐️ used
-  - Chaining: 👂 heard
+  - Chaining: 🖐️ used
   - Optional chaining: 👂 heard
-  - IIFE
-  - Async IIFE
-  - `global`
-  - `globalThis`
+  - IIFE: 👂 heard
+  - Async IIFE: 👂 heard
+  - `global`: 🎓 known
+  - `globalThis`: 👂 heard
   - `window`
   - Getters and setters: 🎓 known
   - `__proto__`: 👂 heard
-  - `prototype`
-  - Equality operators: 🎓 known
-  - Logical operators: 🎓 known
+  - `prototype`: 👂 heard
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment: 👂 heard
   - Bitwise operators
-  - Ternary operator: 👂 heard
+  - Ternary operator: 🖐️ used
   - `void`: 🖐️ used
-  - `yield`
-  - `await`
+  - `yield`: 👂 heard
+  - `await`: 🖐️ used
   - Template literal
   - Strict mode: 🖐️ used
   - Hoisting
   - `delete`
   - `in`
-  - `super`
+  - `super`: 🖐️ used
   - `eval`: 🎓 known
   - `static`: 🖐️ used
   - `Number.parseInt`: 🎓 known
@@ -54,10 +54,10 @@
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Instance class fields: 🎓 known
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
@@ -107,14 +107,14 @@
   - `Error`: 🖐️ used
   - `Atomics`
   - `JSON`: 🖐️ used
-  - `WeakRef`
-  - `FinalizationRegistry`
+  - `WeakRef`: 👂 heard
+  - `FinalizationRegistry`: 👂 heard
   - `Intl`
   - `Promise`: 🖐️ used
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
-  - V8
+  - V8: 👂 heard
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used

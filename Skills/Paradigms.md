@@ -49,26 +49,26 @@
   - Reflection: 👂 heard
   - The diamond problem
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
+  - Information expert: 👂 heard
+  - Creator: 🎓 known
+  - Controller: 🎓 known
+  - Indirection: 👂 heard
+  - Low coupling: 👂 heard
   - High cohesion
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
+  - Single-responsibility principle (SRP): 👂 heard
+  - Open–closed principle (OCP): 👂 heard
+  - Liskov substitution principle (LSP): 👂 heard
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
   - Singleton: 👂 heard
   - Factory Method
   - Abstract Factory
-  - Adapter
-  - Observer
+  - Adapter: 🎓 known
+  - Observer: 🎓 known
   - Strategy
   - Facade
   - Proxy: 👂 heard

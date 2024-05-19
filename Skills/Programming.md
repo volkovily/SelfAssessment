@@ -2,8 +2,8 @@
 
 - Concepts
   - Model: 👂 heard
-  - Modeling
-  - Subject domain
+  - Modeling: 🎓 known
+  - Subject domain: 🎓 known
   - Algorithm: 🎓 known
   - Syntax: 🎓 known
   - Semantics: 🎓 known
@@ -12,24 +12,24 @@
   - Programm: 🎓 known
   - Programming paradigm: 🎓 known
   - Programming language: 🎓 known
-  - Contract: 👂 heard
+  - Contract: 🎓 known
   - Module: 🎓 known
   - Library: 🎓 known
   - Package: 🎓 known
-  - Component
+  - Component: 🎓 known
   - Framework: 🎓 known
-  - Platform
+  - Platform: 🎓 known
   - Source code: 🎓 known
-  - Object code
+  - Object code: 🎓 known
   - Machine code: 🎓 known
-  - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
+  - Microcode: 🎓 known
+  - Software engineering: 🎓 known
+  - Decomposition: 🎓 known
+  - Control flow: 👂 heard
+  - Data flow: 👂 heard
+  - Code reuse: 🎓 known
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY): 🎓 known
   - KISS principle
 - Syntax and concepts
   - Value: 🖐️ used
@@ -142,78 +142,78 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Compiler: 🖐️ used
+  - Just-in-time compilation: 🎓 known
+  - Ahead-of-time compilation: 🎓 known
   - Transpiler
-  - Linter
+  - Linter: 🖐️ used
   - Polyfill
-  - Interpreter
+  - Interpreter: 🖐️ used
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
-  - Register-based VM
-  - Stack-based VM
-  - Containerization
-  - Debugger
+  - Runtime: 🖐️ used
+  - Virtual machine: 🖐️ used
+  - Register-based VM: 👂 heard
+  - Stack-based VM: 👂 heard
+  - Containerization: 🖐️ used
+  - Debugger: 🖐️ used
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
+  - Garbage collection: 👂 heard
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
+  - Exception: 🖐️ used
+  - Unittesting: 🖐️ used
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 🖐️ used
   - Kubernetes
-  - GCC
+  - GCC: 🎓 known
   - LLVM
 - Antipatterns
   - Magic numbers: 🎓 known
-  - Hard code: 👂 heard
-  - Soft code
+  - Hard code: 🎓 known
+  - Soft code: 🎓 known
   - Cryptic code: 👂 heard
-  - Improbability factor
+  - Improbability factor: 🎓 known
   - Accidental complexity: 👂 heard
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Spaghetti: 🎓 known
+  - Silver bullet: 🎓 known
   - Not invented here: 👂 heard
-  - Dead code
-  - Unreachable code
-  - Duplicate code: 👂 heard
+  - Dead code: 🎓 known
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Nested loops: 🎓 known
+  - Long method/function/procedure: 🎓 known
+  - Long inheritance: 🎓 known
+  - Large class/file: 🎓 known
+  - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case: 👂 heard
+  - Use switch/case: 🎓 known
   - Temporary field
-  - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
+  - Handle object as instances and hashes at the same time: 🎓 known
+  - Use fields instead of arguments: 🎓 known
   - Data clump
   - Feature envy
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode: 🎓 known
+  - V8: 👂 heard
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers: 🎓 known
   - Kernel: 👂 heard
   - Ring
-  - Virtual memory
-  - File system
+  - Virtual memory: 🎓 known
+  - File system: 🎓 known
   - Linux: 🖐️ used
   - Unix
   - BSD
@@ -228,12 +228,12 @@
   - IETF
   - IANA
   - IEEE
-  - Base64
-  - ECMA
+  - Base64: 🖐️ used
+  - ECMA: 🎓 known
   - ICANN
   - ISO: 👂 heard
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG

@@ -33,7 +33,7 @@
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
+  - Streams API: 👂 heard
   - Web Streams API
   - Crypto API
   - Password hashing with crypto.scrypt
@@ -63,65 +63,65 @@
   - Endpoint throttling
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates: 🎓 known
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 👂 heard
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🖐️ used
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Native test runner: 🎓 known
+  - Logging: 🖐️ used
+  - Application configuring: 🎓 known
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - Back pressure
   - Buffer
-  - Console
-  - Inspector
+  - Console: 🖐️ used
+  - Inspector: 🖐️ used
 - Data access
   - Data access layer
   - Repository
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD: 🎓 known
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error`: 🎓 known
   - `error.cause`
   - `error.code`
   - `error.message`
   - `error.stack`
   - `Error.captureStackTrace`
-  - How to avoid mixins
+  - How to avoid mixins: 👂 heard
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 🖐️ used
   - Flame graph
-  - Memory leaks
+  - Memory leaks: 🎓 known
   - Resource leaks
   - Data race
 - Integrations and bindings
@@ -139,5 +139,5 @@
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory
+  - Shared memory: 👂 heard
   - V8 binary serialization

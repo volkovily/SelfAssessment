@@ -1,8 +1,8 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
+  - Data types: 🎓 known
+  - Performance tuning: 👂 heard
   - Migrations
   - Schema versioning
   - Backup and recovery
